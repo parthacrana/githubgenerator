@@ -32,9 +32,6 @@ P.S. Thanks to my new Javascript book!
 
 
 
-
-
-
 This is the screen recording of my assignment. The only problem is that the readme does not get generated. I am turning it in now. I will solve it and resubmit it ASAP. 
 
 [index2.js - githubgenerator - Visual Studio Code 2024-07-23 19-54-29.zip](https://github.com/user-attachments/files/16356504/index2.js.-.githubgenerator.-.Visual.Studio.Code.2024-07-23.19-54-29.zip)
