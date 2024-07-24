@@ -16,10 +16,12 @@ Feel free to explore any or all of these files!
 
 
 
+
 Basic code was added already, just had to add the javascript and some questions for user input via Inquirer module. 
 
 Used Inquirer@8.2.4 and FS
 
+Found out that windows can screen record if the Xbox app is downloaded! 
 
 
 One thing I was still unable to was generate the read me file. I have the format for the readme.md file but it is not generating.
@@ -28,3 +30,11 @@ If I do not solve it by tonight, then I will turn the assignment again at a late
 
 P.S. Thanks to my new Javascript book! 
 
+
+
+
+
+
+This is the screen recording of my assignment. The only problem is that the readme does not get generated. I am turning it in now. I will solve it and resubmit it ASAP. 
+
+[index2.js - githubgenerator - Visual Studio Code 2024-07-23 19-54-29.zip](https://github.com/user-attachments/files/16356504/index2.js.-.githubgenerator.-.Visual.Studio.Code.2024-07-23.19-54-29.zip)
